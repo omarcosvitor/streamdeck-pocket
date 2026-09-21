@@ -5,7 +5,7 @@ Funciona no Windows e no Linux com KDE Plasma 6.
 
 ## Instalar no Windows
 
-Baixe o `StreamDeck-Setup-<versao>.exe` na [última versão](https://github.com/omarcosvitor/StreamDeack/releases/latest) e execute. O instalador não exige Python nem permissões de administrador. O aplicativo fica na bandeja do Windows, sem terminal aberto. Clique com o botão direito no ícone para ver ou copiar o endereço do celular, abrir a interface no computador ou encerrar o aplicativo.
+Baixe o `StreamDeck-Setup-<versao>.exe` na [última versão](https://github.com/omarcosvitor/streamdeck-pocket/releases/latest) e execute. O instalador não exige Python nem permissões de administrador. O aplicativo fica na bandeja do Windows, sem terminal aberto. Clique com o botão direito no ícone para ver ou copiar o endereço do celular, abrir a interface no computador ou encerrar o aplicativo.
 
 Os favoritos ficam em `%LOCALAPPDATA%\StreamDeck\apps.json` e são preservados quando o programa é atualizado ou removido.
 
@@ -13,7 +13,7 @@ Os favoritos ficam em `%LOCALAPPDATA%\StreamDeck\apps.json` e são preservados q
 
 Requer KDE Plasma 6 (as janelas são controladas por um script do KWin) e o
 `python3-gobject`, que já vem instalado em qualquer Plasma. Baixe o
-`StreamDeck-<versao>-linux.tar.gz` na [última versão](https://github.com/omarcosvitor/StreamDeack/releases/latest):
+`StreamDeck-<versao>-linux.tar.gz` na [última versão](https://github.com/omarcosvitor/streamdeck-pocket/releases/latest):
 
 ```bash
 tar --extract --gzip --file StreamDeck-<versao>-linux.tar.gz
@@ -34,7 +34,7 @@ de mais usados do Windows) — toque longo promove qualquer um a favorito.
 
 ## Atualizar
 
-O deck se atualiza sozinho a partir das [releases](https://github.com/omarcosvitor/StreamDeack/releases)
+O deck se atualiza sozinho a partir das [releases](https://github.com/omarcosvitor/streamdeck-pocket/releases)
 — sem baixar nada na mão. A busca só acontece quando você pede; o programa não
 fala com a internet por conta própria.
 

@@ -3,7 +3,7 @@ name: Release
 # Cada push na main publica uma release nova, com o instalador do Windows e o
 # pacote do Linux. A versao incrementa o patch da ultima release publicada, de
 # modo que o historico fica na lista de releases:
-# https://github.com/omarcosvitor/StreamDeack/releases
+# https://github.com/omarcosvitor/streamdeck-pocket/releases
 #
 # Os jobs sobem os arquivos direto numa release em rascunho em vez de passar por
 # artefatos entre jobs: a cota de artefatos do Actions nao aguenta um instalador

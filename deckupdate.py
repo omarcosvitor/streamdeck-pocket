@@ -27,7 +27,7 @@ import time
 import urllib.error
 import urllib.request
 
-REPO = "omarcosvitor/StreamDeack"
+REPO = "omarcosvitor/streamdeck-pocket"
 LATEST_URL = "https://api.github.com/repos/%s/releases/latest" % REPO
 AGENT = "StreamDeck-de-bolso"
 TIMEOUT = 20
